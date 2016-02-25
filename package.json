@@ -1,0 +1,20 @@
+{
+  "name": "json-api-router",
+  "description": "JSON-based API router for Express",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wen Chang",
+    "email": "wchang28@hotmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/json-api-router.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "no-cache-express": "git+https://github.com/wchang28/no-cache-express.git"
+  }
+}
