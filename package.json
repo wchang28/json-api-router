@@ -1,7 +1,7 @@
 {
   "name": "json-api-router",
   "description": "JSON-based API router for Express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Wen Chang",
     "email": "wchang28@hotmail.com"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wchang28/json-api-router.git"
+    "url": "https://github.com/wchang28/json-api-router"
   },
   "dependencies": {
     "body-parser": "^1.14.1",
